@@ -51,7 +51,7 @@
 
 | Read | Book Cover | Description |
 |------|------------|-------------|
-| [ ] | <img src="https://images-na.ssl-images-amazon.com/images/I/41s6ZQCPtDL._SX329_BO1,204,203,200_.jpg" width="100"> | **Building a Second Brain** by Tiago Forte<br>A guide to organizing your digital life and enhancing productivity. |
+| [ ] | <img src="https://m.media-amazon.com/images/I/71-C-CsboJL._AC_UF894,1000_QL80_.jpg" width="100"> | **Building a Second Brain** by Tiago Forte<br>A guide to organizing your digital life and enhancing productivity. |
 | [ ] | <img src="https://images-na.ssl-images-amazon.com/images/I/41H3yF2R0mL._SX258_BO1,204,203,200_.jpg" width="100"> | **Ikigai: The Japanese Secret to a Long and Happy Life** by Héctor García and Francesc Miralles<br>Explores the Japanese concept of ikigai, or a reason for living. |
 | [ ] | <img src="https://images-na.ssl-images-amazon.com/images/I/41YWBxWitCL._SX331_BO1,204,203,200_.jpg" width="100"> | **Life Is Short and So Is This Book: Brief Thoughts on Making the Most of Your Life** by Peter Atkins<br>Short, impactful thoughts on living a meaningful life. |
 | [ ] | <img src="https://images-na.ssl-images-amazon.com/images/I/31mnuW2xvLL._SX331_BO1,204,203,200_.jpg" width="100"> | **Life's a Pitch Workbook** by Stephen Bayley and Roger Mavity<br>Practical advice on presenting and pitching ideas effectively. |
