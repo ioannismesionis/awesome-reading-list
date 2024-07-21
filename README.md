@@ -29,6 +29,7 @@
 | [✅] | <img src="https://m.media-amazon.com/images/I/51PWIy1rHUL.jpg" width="100"> | **How to Win Friends and Influence People** by Dale Carnegie<br>Classic book on improving social skills and building meaningful relationships. |
 | [✅] | <img src="https://m.media-amazon.com/images/I/81YkqyaFVEL._AC_UF894,1000_QL80_.jpg" width="100"> | **Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones** by James Clear<br>Practical strategies for habit formation and personal growth. |
 | [ ] | <img src="https://m.media-amazon.com/images/I/71f6DceqZAL._AC_UF894,1000_QL80_.jpg" width="100"> | **Thinking, Fast and Slow** by Daniel Kahneman<br>Why do we make the decisions we do?. Distilling his life's work, Kahneman showed that there are two ways we make choices: fast, intuitive thinking, and slow, rational thinking. |
+| [ ] | <img src="https://m.media-amazon.com/images/I/71NBZIExBCL._AC_UF894,1000_QL80_.jpg" width="100"> | **Start with why** by Simon Sinek<br>In this book, Simon shows that the leaders who’ve had the greatest influence in the world all think, act, and communicate the same way—and it’s the opposite of what everyone else does. |
 | [✅] | <img src="https://m.media-amazon.com/images/I/71-C-CsboJL._AC_UF894,1000_QL80_.jpg" width="100"> | **Building a Second Brain** by Tiago Forte<br>A guide to organizing your digital life and enhancing productivity. |
 
 ### 💰 Finance
