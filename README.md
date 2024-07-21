@@ -28,13 +28,14 @@
 | [ ] | <img src="https://m.media-amazon.com/images/I/41W6GSfYejL.jpg" width="100"> | **Deep Work** by Cal Newport<br>'Deep work' is the ability to focus without distraction on a cognitively demanding task. |
 | [ ] | <img src="https://m.media-amazon.com/images/I/51PWIy1rHUL.jpg" width="100"> | **How to Win Friends and Influence People** by Dale Carnegie<br>Classic book on improving social skills and building meaningful relationships. |
 | [ ] | <img src="https://m.media-amazon.com/images/I/81YkqyaFVEL._AC_UF894,1000_QL80_.jpg" width="100"> | **Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones** by James Clear<br>Practical strategies for habit formation and personal growth. |
+| [ ] | <img src="https://m.media-amazon.com/images/I/71f6DceqZAL._AC_UF894,1000_QL80_.jpg" width="100"> | **Thinking, Fast and Slow** by Daniel Kahneman<br>Why do we make the decisions we do?. Distilling his life's work, Kahneman showed that there are two ways we make choices: fast, intuitive thinking, and slow, rational thinking. |
 | [ ] | <img src="https://m.media-amazon.com/images/I/71-C-CsboJL._AC_UF894,1000_QL80_.jpg" width="100"> | **Building a Second Brain** by Tiago Forte<br>A guide to organizing your digital life and enhancing productivity. |
 
 ### 💰 Finance
 | Read | Book Cover | Description |
 |------|------------|-------------|
-| [ ] | <img src="https://m.media-amazon.com/images/I/71aG0m9XRcL._AC_UF894,1000_QL80_.jpg" width="100"> | **The Psychology of Money** by Morgan Housel<br>In The Psychology of Money contains 19 short stories exploring the strange ways people think about money and teaches you how to make better sense of one of life's most important topics. |
-| [ ] | <img src="https://m.media-amazon.com/images/I/91gCMKH3JTL._AC_UF894,1000_QL80_.jpg" width="100"> | **The Money Machine: How the City Works** by Philip Coggan<br>What causes the pound to rise or interest rates to fall? Which are the institutions that really matter? Why is it we need the Money Machine - and what happens when it crashes? Coggan provides clear and concise answers and shows why we should all be more familiar with a system we so intimately depend upon. |
+| [ ] | <img src="https://m.media-amazon.com/images/I/71aG0m9XRcL._AC_UF894,1000_QL80_.jpg" width="100"> | **The Psychology of Money** by Morgan Housel<br>In The Psychology of Money contains 19 short stories exploring the strange ways people think about money. |
+| [ ] | <img src="https://m.media-amazon.com/images/I/91gCMKH3JTL._AC_UF894,1000_QL80_.jpg" width="100"> | **The Money Machine: How the City Works** by Philip Coggan<br>What causes the pound to rise or interest rates to fall? Why is it we need the Money Machine - and what happens when it crashes? Coggan provides clear and concise answers and shows why we should all be more familiar with a system we so intimately depend upon. |
 
 
 ## Miscellaneous
