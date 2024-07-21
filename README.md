@@ -34,6 +34,7 @@
 | Read | Book Cover | Description |
 |------|------------|-------------|
 | [ ] | <img src="https://m.media-amazon.com/images/I/71aG0m9XRcL._AC_UF894,1000_QL80_.jpg" width="100"> | **The Psychology of Money** by Morgan Housel<br>In The Psychology of Money contains 19 short stories exploring the strange ways people think about money and teaches you how to make better sense of one of life's most important topics. |
+| [ ] | <img src="https://m.media-amazon.com/images/I/91gCMKH3JTL._AC_UF894,1000_QL80_.jpg" width="100"> | **The Money Machine: How the City Works** by Philip Coggan<br>What causes the pound to rise or interest rates to fall? Which are the institutions that really matter? Why is it we need the Money Machine - and what happens when it crashes? Coggan provides clear and concise answers and shows why we should all be more familiar with a system we so intimately depend upon. |
 
 
 ## Miscellaneous
