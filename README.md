@@ -17,6 +17,7 @@
 | [ ] | <img src="https://images-na.ssl-images-amazon.com/images/I/51N-u8AsmdL._SX329_BO1,204,203,200_.jpg" width="100"> | **The Lean Startup** by Eric Ries<br>Techniques for building startups using lean methodologies. |
 | [ ] | <img src="https://m.media-amazon.com/images/I/71RRqISbncL._AC_UF894,1000_QL80_.jpg" width="100"> | **Leaders Eat Last** by Simon Sinek<br>Explores how leaders can create environments where people feel valued and safe. |
 | [ ] | <img src="https://m.media-amazon.com/images/I/91lOK2jVqPL._AC_UF894,1000_QL80_.jpg" width="100"> | **Data Science for Business** by Foster Provost and Tom Fawcett<br>Explains fundamental principles and techniques of data mining and machine learning. |
+| [ ] | <img src="https://m.media-amazon.com/images/I/81jwM5Wq8zL._AC_UF894,1000_QL80_.jpg" width="100"> | **Data Smart: Using Data Science to Transform Information into Insight** by John W. Foreman<br>Explains how to do data science for actionable insights. |
 
 
 ### 🗣️ Productivity
@@ -28,7 +29,7 @@
 | [ ] | <img src="https://m.media-amazon.com/images/I/81YkqyaFVEL._AC_UF894,1000_QL80_.jpg" width="100"> | **Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones** by James Clear<br>Practical strategies for habit formation and personal growth. |
 
 
-## Misc.
+## Miscellaneous
 
 | Read | Book Cover | Description |
 |------|------------|-------------|
