@@ -15,9 +15,8 @@
 | Read | Book Cover | Description |
 |------|------------|-------------|
 | [ ] | <img src="https://images-na.ssl-images-amazon.com/images/I/51N-u8AsmdL._SX329_BO1,204,203,200_.jpg" width="100"> | **The Lean Startup** by Eric Ries<br>Techniques for building startups using lean methodologies. |
-| [ ] | <img src="https://images-na.ssl-images-amazon.com/images/I/51DiMlqKZ6L._SX330_BO1,204,203,200_.jpg" width="100"> | **Leaders Eat Last** by Simon Sinek<br>Explores how leaders can create environments where people feel valued and safe. |
-| [ ] | <img src="https://images-na.ssl-images-amazon.com/images/I/41GxjKsNxxL._SX331_BO1,204,203,200_.jpg" width="100"> | **Data Science for Business** by Foster Provost and Tom Fawcett<br>Explains fundamental principles and techniques of data mining and machine learning. |
-| [ ] | <img src="https://images-na.ssl-images-amazon.com/images/I/41H5dT0n2rL._SX331_BO1,204,203,200_.jpg" width="100"> | **Managing Data Science** by Kirill Dubovikov<br>Insights into managing data science projects and teams. |
+| [ ] | <img src="https://m.media-amazon.com/images/I/71RRqISbncL._AC_UF894,1000_QL80_.jpg" width="100"> | **Leaders Eat Last** by Simon Sinek<br>Explores how leaders can create environments where people feel valued and safe. |
+| [ ] | <img src="https://m.media-amazon.com/images/I/91lOK2jVqPL._AC_UF894,1000_QL80_.jpg" width="100"> | **Data Science for Business** by Foster Provost and Tom Fawcett<br>Explains fundamental principles and techniques of data mining and machine learning. |
 
 
 ### 🗣️ Productivity
@@ -25,13 +24,13 @@
 | Read | Book Cover | Description |
 |------|------------|-------------|
 | [ ] | <img src="https://m.media-amazon.com/images/I/71-C-CsboJL._AC_UF894,1000_QL80_.jpg" width="100"> | **Building a Second Brain** by Tiago Forte<br>A guide to organizing your digital life and enhancing productivity. |
-| [ ] | <img src="https://images-na.ssl-images-amazon.com/images/I/51o8Tdp4NxL._SX320_BO1,204,203,200_.jpg" width="100"> | **How to Win Friends and Influence People** by Dale Carnegie<br>Classic book on improving social skills and building meaningful relationships. |
-| [ ] | <img src="https://images-na.ssl-images-amazon.com/images/I/51-nXsSRfZL._SX329_BO1,204,203,200_.jpg" width="100"> | **Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones** by James Clear<br>Practical strategies for habit formation and personal growth. |
+| [ ] | <img src="https://m.media-amazon.com/images/I/51PWIy1rHUL.jpg" width="100"> | **How to Win Friends and Influence People** by Dale Carnegie<br>Classic book on improving social skills and building meaningful relationships. |
+| [ ] | <img src="https://m.media-amazon.com/images/I/81YkqyaFVEL._AC_UF894,1000_QL80_.jpg" width="100"> | **Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones** by James Clear<br>Practical strategies for habit formation and personal growth. |
 
 
 ## Misc.
 
 | Read | Book Cover | Description |
 |------|------------|-------------|
-| [ ] | <img src="https://images-na.ssl-images-amazon.com/images/I/41H3yF2R0mL._SX258_BO1,204,203,200_.jpg" width="100"> | **Ikigai: The Japanese Secret to a Long and Happy Life** by Héctor García and Francesc Miralles<br>Explores the Japanese concept of ikigai, or a reason for living. |
+| [ ] | <img src="https://m.media-amazon.com/images/I/81l3rZK4lnL._AC_UF894,1000_QL80_.jpg" width="100"> | **Ikigai: The Japanese Secret to a Long and Happy Life** by Héctor García and Francesc Miralles<br>Explores the Japanese concept of ikigai, or a reason for living. |
 
