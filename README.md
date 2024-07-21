@@ -1,8 +1,4 @@
-# 📚 Reading List
-
-A curated list of books for professional and personal growth.
-
-## Professional Development
+# 📚 Reading List for Professional Development
 
 ### 📊 Data Science and Machine Learning
 
