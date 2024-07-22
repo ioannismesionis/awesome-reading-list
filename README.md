@@ -9,6 +9,9 @@
 | ✅ | <img src="https://m.media-amazon.com/images/I/81aSHEzSB1L._AC_UF894,1000_QL80_.jpg" width="100"> | **Designing Machine Learning Systems** by Chip Huyen<br>A guide to creating robust and scalable machine learning systems. |
 | [ ] | <img src="https://m.media-amazon.com/images/I/41K9VH6mGKL.jpg" width="100"> | **Machine Learning Engineering with Python** by Andrew P. McMahon<br>Practical approaches to building and deploying machine learning models. |
 | ✅ | <img src="https://m.media-amazon.com/images/I/61+ssbyk8RL._AC_UF894,1000_QL80_.jpg" width="100"> | **Recommender Systems: The Textbook** by Charu C. Aggarwal<br>Comprehensive guide to building recommender systems. |
+| ✅ | <img src="https://m.media-amazon.com/images/I/51DQ9Bs-h-L._SL1360_.jpg" width="100"> | **The Hundred-Page Machine Learning Book** by Andriy Burkov<br>Traditional ML in 100 pages (+bonus pages). |
+| [ ] | <img src="https://m.media-amazon.com/images/I/81W8SEr-3pL._SL1500_.jpg" width="100"> | **Practical MLOps: Operationalizing Machine Learning Models** by Noah Gift<br>This insightful guide takes you through what MLOps is (and how it differs from DevOps) and shows you how to put it into practice to operationalize your machine learning models. |
+| [ ] | <img src="https://m.media-amazon.com/images/I/91YfNb49PLL._SL1500_.jpg" width="100"> | **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** by Martin Kleppmann<br>In this practical and comprehensive guide, author Martin Kleppmann helps you navigate this diverse landscape by examining the pros and cons of various technologies for processing and storing data. |
 
 ### 🏢 Business
 
@@ -19,6 +22,7 @@
 | ✅ | <img src="https://m.media-amazon.com/images/I/91lOK2jVqPL._AC_UF894,1000_QL80_.jpg" width="100"> | **Data Science for Business** by Foster Provost and Tom Fawcett<br>Explains fundamental principles and techniques of data mining and machine learning. |
 | ✅ | <img src="https://m.media-amazon.com/images/I/51z7thZ5O8L._AC_UF894,1000_QL80_.jpg" width="100"> | **Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die** by Eric Siegel. |
 | [ ] | <img src="https://m.media-amazon.com/images/I/81jwM5Wq8zL._AC_UF894,1000_QL80_.jpg" width="100"> | **Data Smart: Using Data Science to Transform Information into Insight** by John W. Foreman<br>Explains how to do data science for actionable insights. |
+| [ ] | <img src="https://m.media-amazon.com/images/I/51IwsbDo-jL.jpg" width="100"> | **The Big Data-Driven Business: How to Use Big Data to Win Customers, Beat Competitors, and Boost Profits** by Russell Glass and Sean Callahan<br>Uses real-life examples - from Nate Silver to Copernicus, and Apple to Blackberry - to demonstrate how the winners of the future will use big data to seek the truth. |
 
 
 ### 🗣️ Productivity
