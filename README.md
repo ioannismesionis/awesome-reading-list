@@ -35,6 +35,7 @@
 | ✅ | <img src="https://m.media-amazon.com/images/I/81vEQ9rFgKL._AC_UF894,1000_QL80_.jpg" width="100"> | **So Good They Can't Ignore You** by Cal Newport<br>The book argues against the passion hypothesis: pursue your passion and you'll love what you do. |
 | ✅ | <img src="https://m.media-amazon.com/images/I/71B4ln9+X+L._AC_UF894,1000_QL80_.jpg" width="100"> | **Getting Things Done: The Art of Stress-free Productivity** by David Allen<br>'GTD' is now shorthand for an entire way of approaching professional and personal tasks, and has spawned an entire culture of websites, organizational tools, seminars, and offshoots. |
 | [] | <img src="https://m.media-amazon.com/images/I/71HamifdtQL._SL1500_.jpg" width="100"> | **Never Split the Difference: Negotiating as if Your Life Depended on It** by Chris Voss<br>Rooted in the real-life experiences of an intelligence professional at the top of his game, Never Split the Difference will give you the competitive edge in any discussion. |
+| ✅ | <img src="https://m.media-amazon.com/images/I/71rmHeQeuRL._SL1255_.jpg" width="100"> | **7 Habits Of Highly Effective People** by Stephen Covey<br>In The 7 Habits of Highly Effective People, author Stephen R. Covey presents a holistic, integrated, principle-centered approach for solving personal and professional problems. |
 
 ### 💰 Finance
 | Read | Book Cover | Description |
