@@ -12,6 +12,7 @@
 | ✅ | <img src="https://m.media-amazon.com/images/I/51DQ9Bs-h-L._SL1360_.jpg" width="100"> | **The Hundred-Page Machine Learning Book** by Andriy Burkov<br>Traditional ML in 100 pages (+bonus pages). |
 | [ ] | <img src="https://m.media-amazon.com/images/I/81W8SEr-3pL._SL1500_.jpg" width="100"> | **Practical MLOps: Operationalizing Machine Learning Models** by Noah Gift<br>This insightful guide takes you through what MLOps is (and how it differs from DevOps) and shows you how to put it into practice to operationalize your machine learning models. |
 | [ ] | <img src="https://m.media-amazon.com/images/I/91YfNb49PLL._SL1500_.jpg" width="100"> | **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** by Martin Kleppmann<br>In this practical and comprehensive guide, author Martin Kleppmann helps you navigate this diverse landscape by examining the pros and cons of various technologies for processing and storing data. |
+| [ ] | <img src="https://m.media-amazon.com/images/I/81Au-jNnaNL._SL1500_.jpg" width="100"> | **Causal Inference in Python: Applying Causal Inference in the Tech Industry** by Matheus Facure<br>In this book, author Matheus Facure, senior data scientist at Nubank, explains the largely untapped potential of causal inference for estimating impacts and effects. |
 
 ### 🏢 Business
 
@@ -46,6 +47,7 @@
 |------|------------|-------------|
 | [ ] | <img src="https://m.media-amazon.com/images/I/71aG0m9XRcL._AC_UF894,1000_QL80_.jpg" width="100"> | **The Psychology of Money** by Morgan Housel<br>In The Psychology of Money contains 19 short stories exploring the strange ways people think about money. |
 | [ ] | <img src="https://m.media-amazon.com/images/I/91gCMKH3JTL._AC_UF894,1000_QL80_.jpg" width="100"> | **The Money Machine: How the City Works** by Philip Coggan<br>What causes the pound to rise or interest rates to fall? Why is it we need the Money Machine - and what happens when it crashes? Coggan provides clear and concise answers and shows why we should all be more familiar with a system we so intimately depend upon. |
+| [ ] | <img src="https://m.media-amazon.com/images/I/61SJZ67ePIL._SL1500_.jpg" width="100"> | **FT Guide to Finance for Non-Financial Managers** by Jo Haigh<br>Gives you the confidence to ask the right business questions, make the correct finance decisions and competently speak the language of commerce to your colleagues, managers, customers and stakeholders. |
 
 
 ## Miscellaneous
