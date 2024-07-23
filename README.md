@@ -13,6 +13,7 @@
 | [ ] | <img src="https://m.media-amazon.com/images/I/81W8SEr-3pL._SL1500_.jpg" width="100"> | **Practical MLOps: Operationalizing Machine Learning Models** by Noah Gift<br>This insightful guide takes you through what MLOps is (and how it differs from DevOps) and shows you how to put it into practice to operationalize your machine learning models. |
 | [ ] | <img src="https://m.media-amazon.com/images/I/91YfNb49PLL._SL1500_.jpg" width="100"> | **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** by Martin Kleppmann<br>In this practical and comprehensive guide, author Martin Kleppmann helps you navigate this diverse landscape by examining the pros and cons of various technologies for processing and storing data. |
 | [ ] | <img src="https://m.media-amazon.com/images/I/81Au-jNnaNL._SL1500_.jpg" width="100"> | **Causal Inference in Python: Applying Causal Inference in the Tech Industry** by Matheus Facure<br>In this book, author Matheus Facure, senior data scientist at Nubank, explains the largely untapped potential of causal inference for estimating impacts and effects. |
+| [ ] | <img src="https://m.media-amazon.com/images/I/71nk3rOK3jL._SL1500_.jpg" width="100"> | **Reinforcement Learning – An Introduction (Adaptive Computation and Machine Learning series)** by Richard S. Sutton, Andrew G. Barto and Francis Bach <br>Like the first edition, this second edition focuses on core online learning algorithms, with the more mathematical material set off in shaded boxes. |
 
 ### 🏢 Business
 
@@ -24,6 +25,7 @@
 | ✅ | <img src="https://m.media-amazon.com/images/I/51z7thZ5O8L._AC_UF894,1000_QL80_.jpg" width="100"> | **Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die** by Eric Siegel. |
 | [ ] | <img src="https://m.media-amazon.com/images/I/81jwM5Wq8zL._AC_UF894,1000_QL80_.jpg" width="100"> | **Data Smart: Using Data Science to Transform Information into Insight** by John W. Foreman<br>Explains how to do data science for actionable insights. |
 | [ ] | <img src="https://m.media-amazon.com/images/I/51IwsbDo-jL.jpg" width="100"> | **The Big Data-Driven Business: How to Use Big Data to Win Customers, Beat Competitors, and Boost Profits** by Russell Glass and Sean Callahan<br>Uses real-life examples - from Nate Silver to Copernicus, and Apple to Blackberry - to demonstrate how the winners of the future will use big data to seek the truth. |
+| [ ] | <img src="https://m.media-amazon.com/images/I/71MleXBMVqL._SL1500_.jpg" width="100"> | **How to Lead in Data Science** by Jike Chong and Yue Chang<br>In How to Lead in Data Science you'll master techniques for leading data science at every seniority level, from heading up a single project to overseeing a whole company's data strategy. You'll find advice on plotting your long-term career advancement, as well as quick wins you can put into practice right away. |
 
 
 ### 🗣️ Productivity
