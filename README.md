@@ -50,6 +50,7 @@
 | [ ] | <img src="https://m.media-amazon.com/images/I/71aG0m9XRcL._AC_UF894,1000_QL80_.jpg" width="100"> | **The Psychology of Money** by Morgan Housel<br>In The Psychology of Money contains 19 short stories exploring the strange ways people think about money. |
 | [ ] | <img src="https://m.media-amazon.com/images/I/91gCMKH3JTL._AC_UF894,1000_QL80_.jpg" width="100"> | **The Money Machine: How the City Works** by Philip Coggan<br>What causes the pound to rise or interest rates to fall? Why is it we need the Money Machine - and what happens when it crashes? Coggan provides clear and concise answers and shows why we should all be more familiar with a system we so intimately depend upon. |
 | [ ] | <img src="https://m.media-amazon.com/images/I/61SJZ67ePIL._SL1500_.jpg" width="100"> | **FT Guide to Finance for Non-Financial Managers** by Jo Haigh<br>Gives you the confidence to ask the right business questions, make the correct finance decisions and competently speak the language of commerce to your colleagues, managers, customers and stakeholders. |
+| [ ] | <img src="https://m.media-amazon.com/images/I/91S7IaFislL._SL1500_.jpg" width="100"> | **FMoney: Master the Game** by Tony Robbins<br>With expert advice on our most important financial decisions, Robbins is an advocate for the listener, dispelling the myths that often rob people of their financial dreams. |
 
 
 ## Miscellaneous
