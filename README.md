@@ -43,6 +43,8 @@
 | ✅ | <img src="https://m.media-amazon.com/images/I/71B4ln9+X+L._AC_UF894,1000_QL80_.jpg" width="100"> | **Getting Things Done: The Art of Stress-free Productivity** by David Allen<br>'GTD' is now shorthand for an entire way of approaching professional and personal tasks, and has spawned an entire culture of websites, organizational tools, seminars, and offshoots. |
 | [] | <img src="https://m.media-amazon.com/images/I/71HamifdtQL._SL1500_.jpg" width="100"> | **Never Split the Difference: Negotiating as if Your Life Depended on It** by Chris Voss<br>Rooted in the real-life experiences of an intelligence professional at the top of his game, Never Split the Difference will give you the competitive edge in any discussion. |
 | ✅ | <img src="https://m.media-amazon.com/images/I/71rmHeQeuRL._SL1255_.jpg" width="100"> | **7 Habits Of Highly Effective People** by Stephen Covey<br>In The 7 Habits of Highly Effective People, author Stephen R. Covey presents a holistic, integrated, principle-centered approach for solving personal and professional problems. |
+| [] | <img src="https://c.media-amazon.com/images/I/61MgYgQqHIL._SL1254_.jpg" width="100"> | **The 12 Week Year Field Guide: Get More Done In 12 Weeks Than Others Do In 12 Months** by Brian P. Moran and Michael Lennington<br>The 12 Week Year is a study guide that makes it easy for anyone to apply the 12 week year to their own lives. Instead of getting bogged down in annualized thinking that produces pitfalls and saps productivity, follow along with this guide to redefine your “year” to be just 12 weeks long. |
+
 
 ### 💰 Finance
 | Read | Book Cover | Description |
